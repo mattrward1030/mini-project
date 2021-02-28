@@ -39,6 +39,10 @@
     text-decoration: none;
     color: #FDF8F5;
   }
+
+  a:hover{
+      color:#1d3557;
+  }
   
   
   header {
