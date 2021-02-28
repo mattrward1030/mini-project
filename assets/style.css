@@ -1,0 +1,95 @@
+/* Universal Selector */
+* {
+    margin:0;
+    padding:0;  
+  }
+  
+ body {
+    background-color: #a8dadc;
+    color: #1d3557;
+    position: relative;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    
+  }
+  main{
+      padding-top: 80px;
+      text-align: center;
+      font-size: 30px;
+  }
+
+  h1 {
+      margin: 10px;
+  }
+
+  h2 {
+      margin: 10px;
+      color:#e63946 ;
+  }
+  h3{
+      margin: 10px;
+  }  
+
+  li {
+    display: inline;
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #FDF8F5;
+  }
+  
+  
+  header {
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    background-color: #e63946;
+    border-top: 5px solid #1d3557;
+    border-bottom: 5px solid #1d3557;;
+  }
+  
+  footer {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    background-color: #e63946;
+    border-bottom: 5px solid #1d3557;
+    color: #FDF8F5;
+    text-align: center;    
+  }
+  
+ 
+  section {
+    margin: 0;
+    padding: 20px;
+    background-color:#457b9d;
+    font-size: 20px;
+  }
+  
+  img {
+    display: inline;
+    margin: 10px auto;
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    border: 10px solid #e63946;
+  }
+  
+button {
+    height: 25px;
+    width: 80px;
+    background-color: #1d3557;
+    color: #FDF8F5;
+  }
+   
+.content {
+      color: #FDF8F5;
+      text-align: center;
+  }
+
